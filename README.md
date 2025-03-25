@@ -39,6 +39,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-03-25 at 10 40 57_5043fad0](https://github.com/user-attachments/assets/7ce43404-52b1-490a-8e3a-8eace67c73dc)
+![WhatsApp Image 2025-03-25 at 10 40 51_7f81949e](https://github.com/user-attachments/assets/c326dfc5-bf7c-4cfe-8430-d0c5498cffc7)
 
 
 ## RESULT:
